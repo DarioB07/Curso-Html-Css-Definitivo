@@ -1,0 +1,72 @@
+*{
+    background-color: black;
+}
+.title{
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-align: center;
+    color: aquamarine;
+    bottom: 40px;
+}
+
+.fruit-list{
+    color: rgb(201, 42, 42);
+}
+
+.fruit-item{
+    color: aquamarine;
+}
+
+.li-2{
+    color: aquamarine;
+}
+
+.li-3{
+    color: aquamarine;
+}
+
+.li-4{
+    color: aquamarine;
+}
+
+.limon{
+    color: #fff;
+}
+
+.zanahoria{
+    color: #fff;
+}
+
+.frutas{
+    color: #fff;
+}
+
+.frutas-2{
+    color: #fff;
+}
+
+.carnes{
+    color: #fff;
+}
+
+.carnes-2{
+    color: #fff;
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+    image-rendering: crisp-edges;
+}
+
+.img-2{
+    width: 200px;
+    height: 200px;
+    image-rendering: crisp-edges;
+}
+
+.img-3{
+    width: 200px;
+    height: 200px;
+    image-rendering: crisp-edges;
+}
